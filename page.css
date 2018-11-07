@@ -1,0 +1,30 @@
+.me{float: left;
+  margin-left: 2em;
+  border-radius: 12%;
+}
+.headding{ 
+  background-color: rgb(65, 65, 65);
+display: inline-block;
+width: 100%;
+color: white;
+height: 15%;
+}
+.info{
+  margin-left: 30%;
+  
+}
+.personal{
+border-left-color:  rgb(65, 65, 65);
+border-style: groove;
+margin: 0.5em;
+}
+.text{
+  margin-left: 20%;
+}
+.links{
+  background-color: rgb(65, 65, 65); 
+  font-size: 3em;
+}
+.link{
+  margin-left: 20%;
+}
